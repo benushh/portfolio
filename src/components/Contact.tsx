@@ -37,7 +37,7 @@ const Contact = () => {
                 <p>Fullstack Developer</p>
                 <p className="py-4">
                   I am available for full-time positions or freelance projects.
-                  Contact me and let's talk!
+                  Contact me and let&apos;s talk!
                 </p>
               </div>
               <div>
