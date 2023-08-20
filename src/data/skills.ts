@@ -56,8 +56,8 @@ export const skills = [
     img: "/assets/skills/python.png",
   },
   {
-    title: "FastAPI",
-    img: "/assets/skills/fastapi.png",
+    title: "Django",
+    img: "/assets/skills/django.webp",
   },
   {
     title: "Git & GitHub",

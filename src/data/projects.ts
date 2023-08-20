@@ -3,6 +3,7 @@ import fiverrImg from "../../public/assets/projects/fiverr.png";
 import zombies from "../../public/assets/projects/zombieHordeGame.png";
 import nike from "../../public/assets/projects/nike.png";
 import admin from "../../public/assets/projects/admin.png";
+import spotify from '../../public/assets/projects/spotify.png'
 
 export const projects = [
   {
@@ -18,6 +19,13 @@ export const projects = [
     type: "Fullstack",
     tech: "MongoDB, ExpressJS, React, NodeJS, Stripe",
     link: "https://github.com/benroz3/fiverr",
+  },
+  {
+    title: "Spotify Music Rooms",
+    img: spotify,
+    type: "Fullstack",
+    tech: "React, TypeScript, MUI, Django, PostgreSQL",
+    link: "https://github.com/benroz3/spotify-music-controller-room",
   },
   {
     title: "Zombie Horde Game",
