@@ -3,21 +3,22 @@ import fiverrImg from "../../public/assets/projects/fiverr.png";
 import zombies from "../../public/assets/projects/zombieHordeGame.png";
 import nike from "../../public/assets/projects/nike.png";
 import admin from "../../public/assets/projects/admin.png";
-import spotify from '../../public/assets/projects/spotify.png'
+import spotify from "../../public/assets/projects/spotify.png";
+import coder from "../../public/assets/projects/coder.png";
 
 export const projects = [
   {
     title: "Netflix",
     img: netflixImg,
     type: "Fullstack",
-    tech: "MongoDB, ExpressJS, React, NodeJS, Redux Toolkit, Firebase",
+    tech: "MongoDB, ExpressJS, React, SASS, NodeJS, Redux Toolkit, Firebase",
     link: "https://github.com/benroz3/netflix",
   },
   {
     title: "Fiverr",
     img: fiverrImg,
     type: "Fullstack",
-    tech: "MongoDB, ExpressJS, React, NodeJS, Stripe",
+    tech: "MongoDB, ExpressJS, React, SASS, NodeJS, Stripe",
     link: "https://github.com/benroz3/fiverr",
   },
   {
@@ -26,6 +27,13 @@ export const projects = [
     type: "Fullstack",
     tech: "React, TypeScript, MUI, Django, PostgreSQL",
     link: "https://github.com/benroz3/spotify-music-controller-room",
+  },
+  {
+    title: "Online Coder",
+    img: coder,
+    type: "Fullstack",
+    tech: "MongoDB, ExpressJS, React, NodeJS, Socket.io",
+    link: "https://main--candid-beijinho-70d59d.netlify.app/",
   },
   {
     title: "Zombie Horde Game",
