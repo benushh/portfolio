@@ -5,6 +5,7 @@ import nike from "../../public/assets/projects/nike.png";
 import admin from "../../public/assets/projects/admin.png";
 import spotify from "../../public/assets/projects/spotify.png";
 import coder from "../../public/assets/projects/coder.png";
+import gamesLibrary from "../../public/assets/projects/gamesLibrary.png";
 
 export const projects = [
   {
@@ -27,6 +28,13 @@ export const projects = [
     type: "Fullstack",
     tech: "React, TypeScript, MUI, Django, PostgreSQL",
     link: "https://github.com/benroz3/spotify-music-controller-room",
+  },
+  {
+    title: "Games Library",
+    img: gamesLibrary,
+    type: "Fullstack",
+    tech: "Vue.js, Bootstrap, Flask",
+    link: "https://github.com/benroz3/games-library",
   },
   {
     title: "Online Coder",
