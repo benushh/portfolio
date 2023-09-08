@@ -20,6 +20,10 @@ export const skills = [
     img: "/assets/skills/react.png",
   },
   {
+    title: "React Native",
+    img: "/assets/skills/reactNative.png",
+  },
+  {
     title: "Redux",
     img: "/assets/skills/redux.png",
   },
