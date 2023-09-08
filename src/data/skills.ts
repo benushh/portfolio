@@ -59,6 +59,14 @@ export const skills = [
     title: "Django",
     img: "/assets/skills/django.webp",
   },
+  // {
+  //   title: "Java",
+  //   img: "/assets/skills/java.png",
+  // },
+  // {
+  //   title: "Spring",
+  //   img: "/assets/skills/spring.png",
+  // },
   {
     title: "Git & GitHub",
     img: "/assets/skills/github.png",

@@ -1,5 +1,6 @@
 import netflixImg from "../../public/assets/projects/netflix.png";
 import fiverrImg from "../../public/assets/projects/fiverr.png";
+import map from "../../public/assets/projects/map.png";
 import zombies from "../../public/assets/projects/zombieHordeGame.png";
 import nike from "../../public/assets/projects/nike.png";
 import admin from "../../public/assets/projects/admin.png";
@@ -23,19 +24,26 @@ export const projects = [
     link: "https://github.com/benroz3/fiverr",
   },
   {
+    title: "Travel Map App",
+    img: map,
+    type: "Fullstack",
+    tech: "MongoDB, ExpressJS, React, SASS, NodeJS, Leaflet",
+    link: "https://github.com/benroz3/travel-map-app",
+  },
+  {
     title: "Spotify Music Rooms",
     img: spotify,
     type: "Fullstack",
     tech: "React, TypeScript, MUI, Django, PostgreSQL",
     link: "https://github.com/benroz3/spotify-music-controller-room",
   },
-  {
-    title: "Games Library",
-    img: gamesLibrary,
-    type: "Fullstack",
-    tech: "Vue.js, Bootstrap, Flask",
-    link: "https://github.com/benroz3/games-library",
-  },
+  // {
+  //   title: "Games Library",
+  //   img: gamesLibrary,
+  //   type: "Fullstack",
+  //   tech: "Vue.js, Bootstrap, Flask",
+  //   link: "https://github.com/benroz3/games-library",
+  // },
   {
     title: "Online Coder",
     img: coder,
