@@ -2,6 +2,7 @@ import netflixImg from "../../public/assets/projects/netflix.png";
 import fiverrImg from "../../public/assets/projects/fiverr.png";
 import map from "../../public/assets/projects/map.png";
 import zombies from "../../public/assets/projects/zombieHordeGame.png";
+import platformer from "../../public/assets/projects/platformer.png";
 import clothes from "../../public/assets/projects/clothes.png";
 import nike from "../../public/assets/projects/nike.png";
 import admin from "../../public/assets/projects/admin.png";
@@ -73,11 +74,18 @@ export const projects = [
       tech: "TypeScript & PixiJS",
       link: "https://github.com/benroz3/zombie-horde",
     },
-  {
-    title: "Nike Store",
-    img: nike,
-    type: "Web Page",
-    tech: "HTML, CSS, JavaScript",
-    link: "/assets/projects/nikeStore/index.html",
-  },
+    {
+      title: "Platformer Game",
+      img: platformer,
+      type: "Game",
+      tech: "Python & Pygame",
+      link: "https://github.com/benushh/platformer-game",
+    },
+    {
+      title: "Nike Store",
+      img: nike,
+      type: "Web Page",
+      tech: "HTML, CSS, JavaScript",
+      link: "/assets/projects/nikeStore/index.html",
+    },
 ];
