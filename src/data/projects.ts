@@ -79,7 +79,7 @@ export const projects = [
       img: platformer,
       type: "Game",
       tech: "Python & Pygame",
-      link: "https://github.com/benushh/platformer-game",
+      link: "https://github.com/benroz3/platformer",
     },
     {
       title: "Nike Store",
