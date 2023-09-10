@@ -8,6 +8,7 @@ import nike from "../../public/assets/projects/nike.png";
 import admin from "../../public/assets/projects/admin.png";
 import spotify from "../../public/assets/projects/spotify.png";
 import coder from "../../public/assets/projects/coder.png";
+import aisummarizer from "../../public/assets/projects/ai-summarizer.png";
 import gamesLibrary from "../../public/assets/projects/gamesLibrary.png";
 
 export const projects = [
@@ -47,11 +48,11 @@ export const projects = [
     link: "https://github.com/benroz3/spotify-music-controller-room",
   },
   {
-    title: "Clothing Mobile App",
-    img: clothes,
+    title: "OpenAI Summarizer",
+    img: aisummarizer,
     type: "Front-end",
-    tech: "React Native",
-    link: "https://github.com/benroz3/clothing-app",
+    tech: "React, TypeScript, Tailwind, Vite, RapidAPI",
+    link: "https://main--sensational-frangollo-35d930.netlify.app/",
   },
   // {
     //   title: "Games Library",
@@ -66,6 +67,13 @@ export const projects = [
       type: "Front-end",
       tech: "React & TypeScript",
       link: "https://main--effulgent-entremet-9cfac9.netlify.app/",
+    },
+    {
+      title: "Clothing Mobile App",
+      img: clothes,
+      type: "Front-end",
+      tech: "React Native",
+      link: "https://github.com/benroz3/clothing-app",
     },
     {
       title: "Zombie Horde Game",
