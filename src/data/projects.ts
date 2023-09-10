@@ -8,7 +8,7 @@ import nike from "../../public/assets/projects/nike.png";
 import admin from "../../public/assets/projects/admin.png";
 import spotify from "../../public/assets/projects/spotify.png";
 import coder from "../../public/assets/projects/coder.png";
-import aisummarizer from "../../public/assets/projects/ai-summarizer.png";
+import aisummarizer from "../../public/assets/projects/aisummarizer.png";
 import gamesLibrary from "../../public/assets/projects/gamesLibrary.png";
 
 export const projects = [
