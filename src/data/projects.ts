@@ -10,8 +10,16 @@ import spotify from "../../public/assets/projects/spotify.png";
 import coder from "../../public/assets/projects/coder.png";
 import aisummarizer from "../../public/assets/projects/aisummarizer.png";
 import gamesLibrary from "../../public/assets/projects/gamesLibrary.png";
+import ecom from "../../public/assets/projects/ecom.png";
 
 export const projects = [
+  {
+    title: "E-Commerce Clothes",
+    img: ecom,
+    type: "Fullstack",
+    tech: "Next (as a fullstack framework), TypeScript, Redux Toolkit, TailwindCSS, MongoDB, Firebase, Stripe.",
+    link: "https://github.com/benroz3/e-commerce-clothes",
+  },
   {
     title: "Netflix",
     img: netflixImg,
